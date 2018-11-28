@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FragmentsStartingPoint</string>
+    <string name="intent_message">intent_message</string>
 </resources>
